@@ -1,0 +1,4 @@
+git:
+- branch: main
+  commit: a01901e9306b61976450421bdb093495dea6179d
+  url: https://github.com/nolivera/auto-src.git
